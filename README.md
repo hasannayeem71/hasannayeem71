@@ -2,7 +2,7 @@
 - 👀 I’m interested in python 
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on Django developer
-- 📫 How to reach me ... facebook/hasannayeem5010 and whatsapp:01780064264
+- 📫 How to reach me ... facebook.com/hasannayeem5010 and whatsapp:01780064264
 
 <!---
 hasannayeem71/hasannayeem71 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
