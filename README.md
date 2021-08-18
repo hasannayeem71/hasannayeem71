@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ Mahmudul Hasan Nayeem
 - 👀 I’m interested in python 
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Django developer
 - 📫 How to reach me ... facebook.com/hasannayeem5010 and whatsapp:01780064264
 
