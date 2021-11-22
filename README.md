@@ -39,7 +39,7 @@
     <!-- <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a> -->
     <a style="padding-right:8px;" href="https://typescript.com" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/typescript.png" alt="typescript" width="40" height="40"/> </a>
     <!-- <img src="https://img.icons8.com/ios-filled/50/000000/typescript.png"/> -->
-    <a style="padding-right:8px;" href="https://wordpress.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="wordpress" 
+   
 </p>
 
 
